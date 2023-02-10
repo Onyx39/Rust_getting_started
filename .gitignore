@@ -1,0 +1,8 @@
+# Ignore les fichiers executables
+
+# 1_getting_started
+/1_getting_started/hello_world/hello_world
+
+# 3_common_programming_concepts
+/3_common_programming_concepts/1_data_types
+/3_common_programming_concepts/2_variables_mutabilite
