@@ -21,7 +21,7 @@
     cd name 
     cargo check
     ```
-    Cette commande de créer pas d'exécutable, il vérifie simplement le code.
+    Cette commande ne crée pas d'exécutable, elle vérifie simplement le code.
 
 ### 3 - Compilation
     ```{shell}
